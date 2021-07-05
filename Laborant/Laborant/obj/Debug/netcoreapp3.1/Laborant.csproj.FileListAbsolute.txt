@@ -1,0 +1,15 @@
+C:\Users\SANEK\source\repos\Laborant\Laborant\bin\Debug\netcoreapp3.1\Laborant.exe
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.csprojAssemblyReference.cache
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Page1.g.cs
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant_MarkupCompile.cache
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant_MarkupCompile.lref
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Page1.baml
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.g.resources
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.AssemblyInfoInputs.cache
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.AssemblyInfo.cs
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.csproj.CoreCompileInputs.cache
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.dll
+C:\Users\SANEK\source\repos\Laborant\Laborant\obj\Debug\netcoreapp3.1\Laborant.pdb

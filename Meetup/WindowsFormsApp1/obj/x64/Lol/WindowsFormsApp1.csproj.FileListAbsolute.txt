@@ -1,0 +1,11 @@
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.Form1.resources
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.Form2.resources
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.Form3.resources
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.Konferenc.resources
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.Users.resources
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Lol\WindowsFormsApp1.exe.config
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\x64\Lol\WindowsFormsApp1.exe
+C:\Users\SANEK\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\x64\Lol\WindowsFormsApp1.exe
